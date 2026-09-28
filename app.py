@@ -34,9 +34,7 @@ except Exception:
     # Cấu hình trực tiếp trên máy local (Lưu ý: Thay đổi password nếu đổi trên Aiven)
     DB_USER = "avnadmin" # sửa lại user
     DB_PASSWORD = "AVNS_sQe0LzJogTMG4gdz-By" # sửa lại password
-    DB_HOST = "mysql-39428747-tuetrangia950-3ce0.j.aivencloud.com
-
-" # sửa lại host
+    DB_HOST = "mysql-39428747-tuetrangia950-3ce0.j.aivencloud.com" # sửa lại host
     DB_PORT = 27114 # sửa lại port
     DB_NAME = "defaultdb"
 
